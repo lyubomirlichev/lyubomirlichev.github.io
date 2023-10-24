@@ -2,7 +2,7 @@
 title: AR quiz for Generic Hand Skill Trainer
 date: 2019-07-01
 categories: [Pennant, Projects, AR]
-tags: [ar, ios, android, uwp, windows]
+tags: [ar, mobile, ios, android, uwp, windows]
 pin: true
 ---
 
@@ -12,8 +12,6 @@ https://www.pennantplc.com/generic-hand-skill-trainer-genskill-mk2-2/
 
 
 I worked on...
-
-AR application supplemental materials
 
 Learned...
 

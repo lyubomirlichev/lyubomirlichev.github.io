@@ -1,8 +1,8 @@
 ---
-title: Track Access VR Driver Draining
+title: Track Access VR Driver Training
 date: 2019-08-01
 categories: [Pennant, Projects, VR]
-tags: [windows, ar]
+tags: [windows, vr, oculus rift]
 pin: true
 ---
 
@@ -12,7 +12,6 @@ https://www.pennantplc.com/driver-training-2/
 
 I worked on...
 
-AR application supplemental materials
 
 Learned...
 
