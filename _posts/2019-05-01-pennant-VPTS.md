@@ -12,6 +12,8 @@ Trailer:
 
 {% include embed/{youtube}.html id='{uy02gP9J1Y}' %}
 
+[![Image alt text](https://img.youtube.com/vi/Yuy02gP9J1Y/0.jpg)](https://www.youtube.com/watch?v=Yuy02gP9J1Y)
+
 
 [Overview Brochure](https://www.pennantplc.com/wp-content/uploads/2023/09/Parachute_Trainer_2023.pdf)
 
