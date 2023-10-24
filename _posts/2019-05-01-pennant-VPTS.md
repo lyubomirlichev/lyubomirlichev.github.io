@@ -6,4 +6,16 @@ tags: [windows, vr]
 pin: true
 ---
 
-Placeholder text about work done, videos, images
+The Parachute Trainer is an immersive training system capable of supporting initial canopy control training and malfunction recognition through to mission planning and rehearsal.
+
+Trailer:
+
+{% include embed/{youtube}.html id='{uy02gP9J1Y}' %}
+
+
+[Overview Brochure](https://www.pennantplc.com/wp-content/uploads/2023/09/Parachute_Trainer_2023.pdf)
+
+I worked on...
+
+Learned...
+
