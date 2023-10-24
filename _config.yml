@@ -14,9 +14,9 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Lyubomir Lichev - Portfolio
+title: Lyubomir Lichev
 
-tagline:
+tagline: Senior Software Engineer @ Magnopus
 
 description: >- # used by seo meta and the atom feed
   Organised information on some projects I have worked on over the years.
@@ -34,6 +34,7 @@ social:
   email: l.lichev@icloud.com
   links:
     # The first element serves as the copyright owner's link
+    - https://www.magnopus.com/
     - https://github.com/lyubomirlichev
     - https://www.linkedin.com/in/lyubomir-lichev
 
