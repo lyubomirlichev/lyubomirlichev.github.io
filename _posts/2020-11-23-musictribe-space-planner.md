@@ -2,7 +2,7 @@
 title: 3D Event Space Planner
 date: 2020-11-23
 categories: [Music Tribe]
-tags: [windows, vr, simulation, gameplay]
+tags: [windows, vr, simulation, gameplay, ui]
 pin: true
 ---
 
