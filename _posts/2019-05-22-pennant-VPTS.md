@@ -1,7 +1,7 @@
 ---
 title: VR Parachute Simulator
-date: 2019-05-01
-categories: [Pennant, Projects, VR]
+date: 2019-05-22
+categories: [Pennant]
 tags: [windows, vr, oculus rift, htc vive]
 pin: true
 ---

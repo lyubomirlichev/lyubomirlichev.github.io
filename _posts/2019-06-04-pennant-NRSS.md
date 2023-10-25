@@ -1,8 +1,8 @@
 ---
 title: Network Rail Signal Switching Simulator
-date: 2019-06-01
-categories: [Pennant, Projects, Windows]
-tags: [windows]
+date: 2019-06-04
+categories: [Pennant]
+tags: [windows, simulation]
 pin: true
 ---
 

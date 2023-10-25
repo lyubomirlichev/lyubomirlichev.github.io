@@ -1,7 +1,7 @@
 ---
 title: Monitor Mayhem
-date: 2020-01-01
-categories: [Music Tribe, Projects, VR]
+date: 2020-01-18
+categories: [Music Tribe]
 tags: [windows, vr, simulation, gameplay, htc vive]
 pin: true
 ---

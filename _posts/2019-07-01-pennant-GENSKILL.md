@@ -1,7 +1,7 @@
 ---
 title: AR quiz for Generic Hand Skill Trainer
 date: 2019-07-01
-categories: [Pennant, Projects, AR]
+categories: [Pennant]
 tags: [ar, mobile, ios, android, uwp, windows]
 pin: true
 ---

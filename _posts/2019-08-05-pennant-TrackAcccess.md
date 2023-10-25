@@ -1,7 +1,7 @@
 ---
 title: Track Access VR Driver Training
-date: 2019-08-01
-categories: [Pennant, Projects, VR]
+date: 2019-08-05
+categories: [Pennant]
 tags: [windows, vr, oculus rift]
 pin: true
 ---
