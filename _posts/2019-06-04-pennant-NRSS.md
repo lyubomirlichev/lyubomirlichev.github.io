@@ -11,8 +11,7 @@ The Network Rail Switching Simulator has been developed for implementation along
 
 ![Simulator set up](/assets/images/pennant/NRSS.jpg "Simulator Set up")
 
-
-https://www.pennantplc.com/rail-switching-simulator/
+[Details](https://www.pennantplc.com/rail-switching-simulator/)
 
 I worked on...
 

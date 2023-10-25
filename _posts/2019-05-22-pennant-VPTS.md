@@ -7,7 +7,9 @@ pin: true
 ---
 
 The Parachute Trainer is an immersive training system capable of supporting initial canopy control training and malfunction recognition through to mission planning and rehearsal.
-https://www.pennantplc.com/parachute-trainer/#
+
+[Details](https://www.pennantplc.com/parachute-trainer/#)
+
 Trailer:
 
 [![Image alt text](https://img.youtube.com/vi/suy02gP9J1Y/0.jpg)](https://www.youtube.com/watch?v=suy02gP9J1Y)

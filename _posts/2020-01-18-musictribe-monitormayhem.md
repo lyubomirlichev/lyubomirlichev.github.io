@@ -21,7 +21,7 @@ Build Pipeline on Bamboo and Azure DevOps
 
 Environment Editor
 Catalogue Editor
-In-game UI imlementation and design
+In-game UI implementation and design
 Animations, VR interactions
 
 screenshots here and video here
