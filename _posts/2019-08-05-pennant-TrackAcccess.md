@@ -3,7 +3,7 @@ title: Track Access VR Driver Training
 date: 2019-08-05
 categories: [Pennant]
 tags: [windows, vr, oculus rift]
-pin: true
+pin: false
 ---
 
 VR Rail’s Driver Training 
