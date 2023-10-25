@@ -6,14 +6,12 @@ tags: [windows, simulation]
 pin: false
 ---
 
-
+### Project Description
 The Network Rail Switching Simulator has been developed for implementation alongside classroom training and allows students to put into practice the Electrical Control Room (ECR) working procedures and principles provided by traditional instructor-led training.
 
 ![Simulator set up](/assets/images/pennant/NRSS.jpg "Simulator Set up")
 
 [Details](https://www.pennantplc.com/rail-switching-simulator/)
 
-I worked on...
-
-Learned...
+### What I worked on
 

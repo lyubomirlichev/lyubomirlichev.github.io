@@ -6,13 +6,10 @@ tags: [windows, vr, oculus rift]
 pin: false
 ---
 
-VR Rail’s Driver Training 
+### Project description
+VR Train Operator Training 
 
 [Details](https://www.pennantplc.com/driver-training-2/)
 
-
-I worked on...
-
-
-Learned...
+### What I worked on
 

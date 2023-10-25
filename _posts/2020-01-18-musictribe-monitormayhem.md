@@ -6,9 +6,12 @@ tags: [windows, vr, simulation, gameplay, htc vive]
 pin: true
 ---
 
+### Project description
 Planned, designed, and implemented UI, features of a R trainer for Monitor Engineers, resulting in increased training effectiveness.
 
 [![Image alt text](https://img.youtube.com/vi/3H3N3wM3pHc/0.jpg)](https://www.youtube.com/watch?v=3H3N3wM3pHc)
+
+### What I worked on
 
 I worked on...
 Underlying dual project system for producing various demos, concepts, and uncategorised applications.

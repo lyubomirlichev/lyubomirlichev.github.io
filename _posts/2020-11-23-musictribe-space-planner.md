@@ -6,8 +6,11 @@ tags: [windows, vr, simulation, gameplay]
 pin: true
 ---
 
+### Project description
 Designed and implemented UI,features and systems for a prototype 3D Event Space Planner, aimed to significantly reduce friction
 when planning an event.
+
+### What I worked on
 
 I worked on...
 screenshots and video here
