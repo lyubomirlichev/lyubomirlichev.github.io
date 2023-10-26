@@ -11,4 +11,7 @@ The Generic Hand Skills Trainer, regularly referred to as GenSkill is a free sta
 
 [Details](https://www.pennantplc.com/generic-hand-skill-trainer-genskill-mk2-2/)
 
+[More details](https://www.pennantplc.com/new-product-launch-genskill-mk2/)
+
+[Trailer](https://www.youtube.com/watch?v=KZao4Ei4tRM)
 ### What I worked on
