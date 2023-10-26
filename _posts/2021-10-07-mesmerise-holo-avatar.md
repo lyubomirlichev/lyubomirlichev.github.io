@@ -3,7 +3,7 @@ title: Avatar Customiser - Prototype
 date: 2021-10-07
 categories: [Mesmerise]
 tags: [ar, hololens 2, leadership]
-pin: true
+pin: false
 ---
 
 ### Project description
