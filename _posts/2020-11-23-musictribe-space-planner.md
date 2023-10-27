@@ -10,6 +10,10 @@ pin: true
 Designed and implemented UI,features and systems for a prototype 3D Event Space Planner, aimed to significantly reduce friction
 when planning an event.
 
+Showcase
+
+[![Image alt text](https://img.youtube.com/vi/g2rVpGoNSpw/0.jpg)](https://www.youtube.com/watch?v=g2rVpGoNSpw)
+
 ### What I worked on
 
 I worked on...
