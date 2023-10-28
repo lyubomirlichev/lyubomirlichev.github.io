@@ -23,4 +23,3 @@ Trailer:
   - The floating Orders UI and Order Details UI, comprised of custom shaders, animations, assets, prefabs and more.
   - The phase of the experience where the user is tasked which checking off all of their tools.
 - Testing, bug fixing, CI/CD maintenance, releasing, demos.
-
