@@ -2,7 +2,7 @@
 title: Parachute mini game
 date: 2018-05-18
 categories: [Pennant]
-tags: [windows, vr, oculus rift, gameplay]
+tags: [Windows, VR, Oculus Rift, Gameplay, Unity]
 pin: false
 ---
 

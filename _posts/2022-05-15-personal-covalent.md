@@ -2,7 +2,7 @@
 title: Covalent - Game Prototype
 date: 2022-07-04
 categories: [Personal Projects]
-tags: [windows, gameplay]
+tags: [Windows, 2D, Gameplay, Unity]
 pin: false
 ---
 

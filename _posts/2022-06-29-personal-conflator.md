@@ -2,7 +2,7 @@
 title: Conflator - API experiments
 date: 2022-06-29
 categories: [Personal Projects]
-tags: [windows, gameplay, API]
+tags: [Windows, 2D, Gameplay, API, Unity]
 pin: false
 ---
 

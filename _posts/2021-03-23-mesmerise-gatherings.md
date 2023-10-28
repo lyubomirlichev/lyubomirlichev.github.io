@@ -2,7 +2,7 @@
 title: Gatherings VR
 date: 2021-03-23
 categories: [Mesmerise]
-tags: [oculus quest, vr, cms, ui]
+tags: [Meta Quest, VR, CMS, UI, Unity]
 pin: true
 ---
 
