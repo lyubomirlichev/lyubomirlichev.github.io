@@ -31,6 +31,8 @@ I worked closely with the Design team to implement an extendable and scalable VR
 In addition to the Personal Menu, some of my other contributions to the project were:
 - Completely redesigned and updated VR keyboard (video [demo](https://vimeo.com/567142326))
   - ![Keyboard](/assets/images/mesmerise/keyboard.jpg "Keyboard")
+  - <img width="394" alt="Keyboard" src="/assets/images/mesmerise/keyboard.jpg">
+
 - Implemented fully configurable and VR-optimized Tutorial (video [demo](https://youtu.be/Am5g2oxsG4s)) and configurable tutorial sequence.
   - ![Tutorial](/assets/images/mesmerise/tutorial_components.png "Tutorial Components")
 - Implemented a mechanic to allow the user to express reactions using input form their VR controller's thumbstick. The reactions can then be seen by other users in the space.
