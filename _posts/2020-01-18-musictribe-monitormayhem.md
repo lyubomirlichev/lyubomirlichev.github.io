@@ -7,7 +7,9 @@ pin: true
 ---
 
 ### Project description
-Planned, designed, and implemented UI and features of a VR research/game experience for Monitor Engineers. The aim of the experience is to supplement research done by University of Birmingham, on the immersive benefits of VR in stressful situations. Can we put the user in a stressful situation where they forget they are wearing a headset and feel truly present ? Can we do this in an engaging and fun way ? I worked as part of a team to deliver the Monitor Mahyem experience, and we achieved all of the above.
+Monitor Mayhem is a VR experience aimed at testing the immersive properties of VR in the form of a stressful environment.
+
+The aim of the experience is to supplement research done by University of Birmingham, how immersive VR is in relation to a stressful scenario. Can we put the user in a stressful situation where they forget they are wearing a headset and feel truly present ? Can we do this in an engaging and fun way ? I worked as part of a team to deliver the Monitor Mahyem experience, and we achieved all of the above. The experience provides a scenario in which the player is the recipient of rapid and unexpected demands and tasks of the performing band. The player must use the provided tools and console to fulfil those tasks before it's too late.
 
 Trailer:
 

@@ -7,16 +7,14 @@ pin: true
 ---
 
 ### Project description
-Designed and implemented UI, features and systems for a prototype 3D Event Space Planner, aimed to significantly reduce friction
-when planning an event.
+The 3D Event Space Planner is a 3D environment authoring tool, designed to significantly reduce friction when planning an event.
+The Planner allows the user to construct fully customizable rooms and environments using custom and pre-built assets. The Planner also affords multiple ways to view the experience including free camera, 2D, and first-person view.
 
-Demo:
+Demo video:
 
 [![Image alt text](https://img.youtube.com/vi/g2rVpGoNSpw/0.jpg)](https://www.youtube.com/watch?v=g2rVpGoNSpw)
 
 ### What I worked on
-
-The Planner allows the user to construct fully customizable rooms and environments using custom and pre-built assets. The Planner also affords multiple ways to view the experience including free camera, 2D, and first-person view. 
 
 I was responsible for all of the design and implementation of the UI and Input interactions. It was necessary to craft a cohesive UI theme, and to design and implement UI components which aim to assist and guide the user to the capabilities of the software. 
 

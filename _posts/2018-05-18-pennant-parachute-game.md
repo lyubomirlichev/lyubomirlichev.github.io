@@ -7,8 +7,9 @@ pin: false
 ---
 
 ### Project description
-A simplified version of the VPTS system, with game mechanics. The player starts off having already deployed their parachute. The player then is tasked to use the toggles to navigate through as many rings as possible, on their way down to the landing zone.
-The game was user on shows events, to let visitors try out the parachute simulation within a simple and engaging context.
+The Parachute mini game is a simplified version of the VPTS system, with added engaging game mechanics. The player starts off having already deployed their parachute. The player then is tasked to use the toggles to navigate through as many rings as possible, on their way down to the landing zone.
+
+The game was used on shows events, as an entry point, to let visitors try out the parachute simulation within a simple and engaging context.
 
 Demo:
 

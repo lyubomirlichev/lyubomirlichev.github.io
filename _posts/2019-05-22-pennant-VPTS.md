@@ -6,7 +6,6 @@ tags: [Windows, VR, Simulation, Oculus Rift, HTC Vive, Unity]
 pin: true
 ---
 
-
 ### Project description
 The Parachute Trainer is an immersive training system capable of supporting initial canopy control training and malfunction recognition through to mission planning and rehearsal.
 
