@@ -13,6 +13,8 @@ The game was used on shows events, as an entry point, to let visitors try out th
 
 Demo:
 
+{% include embed/youtube.html id='yQ4s77aJ2zQ' %}
+
 [![Image alt text](https://img.youtube.com/vi/yQ4s77aJ2zQ/0.jpg)](https://www.youtube.com/watch?v=yQ4s77aJ2zQ)
 
 ### What I worked on
