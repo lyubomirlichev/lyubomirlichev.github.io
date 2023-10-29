@@ -15,7 +15,5 @@ Demo:
 
 {% include embed/youtube.html id='yQ4s77aJ2zQ' %}
 
-[![Image alt text](https://img.youtube.com/vi/yQ4s77aJ2zQ/0.jpg)](https://www.youtube.com/watch?v=yQ4s77aJ2zQ)
-
 ### What I worked on
 Adapted parachute control system from VPTS, terrain loading, and input system. Added game rings for the player to aim to go through, and a score tracking system. Whenever the player goes through a ring, the next one lights up. Whenever the player crosses a ring, the system tells them how close they were to the center through a positive UI message. Also implemented a decal shader to mark the landing zone, to simulate a spray-paint target. 

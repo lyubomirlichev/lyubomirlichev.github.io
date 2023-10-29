@@ -13,7 +13,7 @@ The Parachute Trainer is an immersive training system capable of supporting init
 
 Trailer:
 
-[![Image alt text](https://img.youtube.com/vi/suy02gP9J1Y/0.jpg)](https://www.youtube.com/watch?v=suy02gP9J1Y)
+{% include embed/youtube.html id='suy02gP9J1Y' %}
 
 [Overview Brochure](https://www.pennantplc.com/wp-content/uploads/2023/09/Parachute_Trainer_2023.pdf)
 

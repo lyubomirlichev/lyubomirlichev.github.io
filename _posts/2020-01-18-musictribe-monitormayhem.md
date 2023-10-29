@@ -13,7 +13,7 @@ The aim of the experience is to supplement research done by University of Birmin
 
 Trailer:
 
-[![Image alt text](https://img.youtube.com/vi/3H3N3wM3pHc/0.jpg)](https://www.youtube.com/watch?v=3H3N3wM3pHc)
+{% include embed/youtube.html id='3H3N3wM3pHc' %}
 
 ### What I worked on
 - I worked on extending, improving, and fixing, an underlying Content Management project system for producing various demos, concepts, and uncategorized applications. This system allowed us to have an efficent art and code workflow. In essence, the visual assets of the experience are bundled separately into Asset bundles. Those Asset Bundles are shared on a on-premises server. The application that gets installed serves as a client, only containing functionality, not assets. Upon launching the application, all assets are downloaded and prepared. This allowed us to have much shorter artwork iteration time, feature development, testing, and releasing. The system was comprised of:

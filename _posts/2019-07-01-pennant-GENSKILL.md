@@ -13,7 +13,7 @@ The Generic Hand Skills Trainer, regularly referred to as GenSkill is a free sta
 
 [More details](https://www.pennantplc.com/new-product-launch-genskill-mk2/)
 
-[Trailer](https://www.youtube.com/watch?v=KZao4Ei4tRM)
+{% include embed/youtube.html id='KZao4Ei4tRM' %}
 ### What I worked on
 The Quiz application's purpose was to test the student's recognition of faults on the hardware. I implemented the entire system using Unity 3D and Vuforia. The Application runs on Android tablet, iPad, and Windows tablet.
 

@@ -12,7 +12,7 @@ The Planner allows the user to construct fully customizable rooms and environmen
 
 Demo video:
 
-[![Image alt text](https://img.youtube.com/vi/g2rVpGoNSpw/0.jpg)](https://www.youtube.com/watch?v=g2rVpGoNSpw)
+{% include embed/youtube.html id='g2rVpGoNSpw' %}
 
 ### What I worked on
 

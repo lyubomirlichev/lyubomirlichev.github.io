@@ -25,4 +25,4 @@ In this project, I lead a team of 3, where I was responsible for:
 
 The outcome can be seen below: The Hololens 2 application allows a user to fully configure their avatar from a template and customise their avatar using pre-generated hand-picked selection of assets as accessories.
 
-[Demo Video](https://www.youtube.com/watch?v=AgYqpIW4_OA)
+{% include embed/youtube.html id='AgYqpIW4_OA' %}

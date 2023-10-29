@@ -18,7 +18,7 @@ Initially, I was a mid-level software engineer, tasked with implementing and imp
 After the public release of Gatherings, I was moved up to Senior-level, and became part of the team tasked with re-developing and deploying a fully comprehensive CMS system. This new system with a Unity extension front-end afforded the art team with rapid construction of VR spaces. The CMS system supported updating spaces, assets, templates and much more. 
 [GatheringsVR on Quest Store](https://www.meta.com/en-gb/experiences/3620763894706423/).
 ### What I worked on
-- [Personal Menu](https://vimeo.com/567129910)
+- [Personal Menu video](https://vimeo.com/567129910)
   
 <img width="394" alt="image" src="https://github.com/lyubomirlichev/lyubomirlichev.github.io/assets/74913022/5a89e91a-8b6c-4dd6-9afc-06bd69a4687b">
 
