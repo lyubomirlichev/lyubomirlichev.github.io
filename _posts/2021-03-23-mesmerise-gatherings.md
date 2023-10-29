@@ -39,6 +39,7 @@ In addition to the Personal Menu, some of my other contributions to the project 
 
 
 After the release of Gatherings, I worked on a full refactor of the CMS system which powers the experience. This included designing and implementing Unity Editor UI window, which allowed artists to author, modify, delete content completely independently from the client application. For example and artist can set up a space using one of the templates, populate it with assets, and publish it in just a few minutes, all from this Editor Window. Content included : Spaces, Catalogue items, Templates, Layouts, and more.
+
 This update to the CMS system completely overhauled the Gatherings application and it's underlying platform, as now the data powering it could be managed easily from the Unity Editor. Artists could see the result of their work in-headset without being dependent on the Gatherings application's release Process. Complex, elaborate spaces and experiences could be assembled and published in under an hour.
 
 

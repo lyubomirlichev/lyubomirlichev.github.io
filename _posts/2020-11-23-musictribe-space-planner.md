@@ -29,5 +29,3 @@ All of the User Interface and interactions seen in the video above and screensho
 ![Settings Menu](/assets/images/musicTribe/settings_menu.PNG "Settings Menu")
 ![User Menu &amp; Save Menu](/assets/images/musicTribe/user_save_menu.PNG "User Menu &amp; Save Menu")
 ![Loading Screen](/assets/images/musicTribe/loading_screen.png "Loading Screen")
-
-
