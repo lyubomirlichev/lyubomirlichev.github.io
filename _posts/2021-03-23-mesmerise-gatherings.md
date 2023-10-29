@@ -34,7 +34,7 @@ In addition to the Personal Menu, some of my other contributions to the project 
 - Implemented fully configurable and VR-optimized Tutorial (video [demo](https://youtu.be/Am5g2oxsG4s)) and configurable tutorial sequence.
   - <img width="394" alt="Tutorial" src="/assets/images/mesmerise/tutorial_components.png">
 - Implemented a mechanic to allow the user to express reactions using input form their VR controller's thumbstick. The reactions can then be seen by other users in the space.
-  - <img width="394" alt="Reactions" src="//assets/images/mesmerise/reactions.jpg">
+  - <img width="394" alt="Reactions" src="/assets/images/mesmerise/reactions.jpg">
 - Implemented fully async loading system for the application, broken up into separate independent stages. The application's loading time was reduced by about 40 seconds just through the benefit of having separate loading stages instead of everything being spaghetti. Example can be found [here](https://github.com/lyubomirlichev/PersonalExamples/blob/main/Assets/Scripts/StagedLauncher.cs).
 
 
