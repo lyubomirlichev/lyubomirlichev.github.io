@@ -6,7 +6,6 @@ tags: [Windows, 2D, Gameplay, API, Unity]
 pin: false
 ---
 
-### Project description
 Conflator is an experimental Unity app, with the concept of conflating API results. Like cooking but with API results.
 I use this page https://github.com/public-apis/public-apis to find different APIs which might combine into amusing or interesting results.
 

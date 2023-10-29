@@ -1,13 +1,12 @@
 ---
-title: AR quiz for Generic Hand Skill Trainer
+title: AR quiz for GenSkill Trainer
 date: 2019-07-01
 categories: [Pennant]
 tags: [AR, Mobile, iOS, Android, UWP, Windows, Unity]
 pin: false
 ---
 
-### Project description
-The Generic Hand Skills Trainer, regularly referred to as GenSkill is a free standing physical representation of a typical Flying Control Run. The GenSkill provides training in the hand skills necessary to work on aircraft components in confined spaces through access panels in an aircraft fuselage. I was involved in producing a Quiz AR app to supplement the main training procedure. 
+The Generic Hand Skills Trainer, also referred to as GenSkill is a free standing physical representation of a typical Flying Control Run. The GenSkill provides training in the hand skills necessary to work on aircraft components in confined spaces through access panels in an aircraft fuselage. I was involved in producing a Quiz AR app to supplement the main training procedure. 
 
 [Details](https://www.pennantplc.com/generic-hand-skill-trainer-genskill-mk2-2/)
 

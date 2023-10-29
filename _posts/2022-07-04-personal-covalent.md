@@ -6,7 +6,6 @@ tags: [Windows, 2D, Gameplay, Unity]
 pin: false
 ---
 
-### Project description
 Covalent is a roguelike game where (you) the atom fights the other elements to escape a cell.
 
 ### What I worked on

@@ -6,7 +6,6 @@ tags: [Windows, 2D, Simulation, UI, Design, Unity, CMS]
 pin: true
 ---
 
-### Project description
 The 3D Event Space Planner is a 3D environment authoring tool, designed to significantly reduce friction when planning an event.
 The Planner allows the user to construct fully customizable rooms and environments using custom and pre-built assets. The Planner also affords multiple ways to view the experience including free camera, 2D, and first-person view.
 

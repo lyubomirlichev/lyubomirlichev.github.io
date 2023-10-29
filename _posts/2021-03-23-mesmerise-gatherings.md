@@ -6,7 +6,6 @@ tags: [Meta Quest, VR, CMS, UI, Unity]
 pin: true
 ---
 
-### Project description
 [Gatherings](https://gatheringsvr.com/support/) is an always on persistent world where you can explore, watch and connect. 
 The application allows a VR user to experience a shared space with their colleagues, have meetings, attend events, and explore digital activities.
 The application runs on a Unity-based platform, with Azure backend, and Unity frontend. The entire content of the app is delivered in real time, on demand, as part of a platform-level CMS system, using Asset Bundles.

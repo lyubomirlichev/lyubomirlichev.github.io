@@ -6,8 +6,7 @@ tags: [AR, iOS, Unity, UI]
 pin: true
 ---
 
-### Project description
-OKO is an app that allows users to add interactive digital content to the real world
+OKO is an app that allows users to add interactive digital content to the real world.
 
 [App Store link](https://apps.apple.com/us/app/oko/id1630451462)
 
@@ -20,15 +19,15 @@ OKO is an app that allows users to add interactive digital content to the real w
 🔒 Privacy Practices: Data collection may include location, contact info, user content, search history, browsing history, identifiers, usage data, and diagnostics.
 
 
-💲 Price: Free
+💲 Price: Free.
 
 
 ### What I worked on
 
 Features such as:
-- Ability to view a single asset in AR mode
-- Ability to control camera with device motion
-- Ability to author, resolve, and anchor a space using a Fiducial Marker
+- Ability to view a single asset in AR mode.
+- Ability to control camera with device motion.
+- Ability to author, resolve, and anchor a space using a Fiducial Marker.
 - And much more...
 
 More details will be added over time.

@@ -6,7 +6,6 @@ tags: [AR, Hololens 2, Unity, Demo]
 pin: false
 ---
 
-### Project description
 The Avatar Customiser Demo is a Proof-Of-Concept Demo produced with the purpose of exploring the capabilities of the Hololens 2 and AR in general in relation to Gatherings VR. 
 
 Users can create avatars in Gatherings VR with the companion app and a photo of themselves. We wanted to imagine and try out what that would look like using AR, more specifically using the Hololens 2. 

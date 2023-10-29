@@ -6,7 +6,6 @@ tags: [Windows, VR, Oculus Rift, Simulation, Demo, Unity]
 pin: false
 ---
 
-### Project description
 VR Train Operator Training - Proof of Concept / Demo
 
 Pennant Rail’s Driver Training has been an industry-standard package for driver route learning and training for decades and is recognised and used throughout the UK by all leading Train and Freight Operating Companies.
