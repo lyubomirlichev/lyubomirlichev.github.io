@@ -10,11 +10,11 @@ Covalent is a roguelike game where (you) the atom fights the other elements to e
 
 ### What I worked on
 Designed and implemented game mechanics:
- - A movable player character represented by an atom made of protons and neutrons, with customisable orbiting electrons
+ - A movable player character represented by an atom made of protons and neutrons, with customisable orbiting electrons.
  - Spawnable enemies with varying strength, based on their assigned element. e.g. Helium, Boron, Hydrogen etc...
- - Hostile enemies with the goal of destroying the player
- - Player shooting mechanics to allow combat with spawnable enemies
- - Isometric top-down camera system following player
+ - Hostile enemies with the goal of destroying the player.
+ - Player shooting mechanics to allow combat with spawnable enemies.
+ - Isometric top-down camera system following player.
 
 [GitHub Source](https://github.com/lyubomirlichev/Covalent/tree/main)
 
