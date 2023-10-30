@@ -3,7 +3,7 @@ title: Gatherings VR
 date: 2021-03-23
 categories: [Mesmerise]
 tags: [Meta Quest, VR, CMS, UI, Unity]
-pin: true
+pin: false
 ---
 
 [Gatherings](https://gatheringsvr.com/support/) is an always on persistent world where you can explore, watch and connect. 

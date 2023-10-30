@@ -3,7 +3,7 @@ title: 3D Event Space Planner
 date: 2020-11-23
 categories: [Music Tribe]
 tags: [Windows, 2D, Simulation, UI, Design, Unity, CMS]
-pin: true
+pin: false
 ---
 
 The 3D Event Space Planner is a 3D environment authoring tool, designed to significantly reduce friction when planning an event.

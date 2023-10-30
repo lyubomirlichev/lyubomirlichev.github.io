@@ -3,7 +3,7 @@ title: Monitor Mayhem
 date: 2020-01-18
 categories: [Music Tribe]
 tags: [Windows, VR, Simulation, Gameplay, HTC Vive, Unity]
-pin: true
+pin: false
 ---
 
 Monitor Mayhem is a VR experience aimed at testing the immersive properties of VR in the form of a stressful environment.

@@ -3,7 +3,7 @@ title: VR Parachute Simulator
 date: 2019-05-22
 categories: [Pennant]
 tags: [Windows, VR, Simulation, Oculus Rift, HTC Vive, Unity]
-pin: true
+pin: false
 ---
 
 The Parachute Trainer is an immersive training system capable of supporting initial canopy control training and malfunction recognition through to mission planning and rehearsal.
