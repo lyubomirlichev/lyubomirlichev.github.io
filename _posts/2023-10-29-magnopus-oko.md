@@ -10,17 +10,13 @@ OKO is an app that allows users to add interactive digital content to the real w
 
 [App Store link](https://apps.apple.com/us/app/oko/id1630451462)
 
-🪄✨ Features: Enrich physical spaces, capture and upload rooms, create and edit 3D objects, invite collaboration, explore immersive spaces, and connect with others in real-time.
-
-
-📱 Compatibility: Optimized for iPhone 12 and higher, iPad Pro 12.9-inch (4th generation) and higher, iPad Pro 11-inch (2nd generation) and higher.
-
-
-🔒 Privacy Practices: Data collection may include location, contact info, user content, search history, browsing history, identifiers, usage data, and diagnostics.
-
-
-💲 Price: Free.
-
+🪄✨ Features: 
+- Add an interactive digital layer to any physical space.
+- Capture & upload your room to map out a connected space.
+- Upload & edit 3D objects to bring your space to life.
+- Invite customers, fans, & friends to collaborate in your space.
+- Visit immersive spaces as an avatar from other creators worldwide.
+- Engage directly with others in real-time, no matter where they are.
 
 ### What I worked on
 
