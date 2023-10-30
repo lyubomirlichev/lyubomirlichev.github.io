@@ -20,5 +20,5 @@ If you are interested in discussing potential collaboration or learning more abo
 
 Download my CV [here](https://www.icloud.com/iclouddrive/04eTBrKWyYMFzHFx_VMcP7iRg#Lyubomir_Lichev_2023_CV).
 
-Contact me at [l.lichev@icloud.com](mailto:l.lichev@icloud.com)
+Contact me at [l.lichev@icloud.com](mailto:l.lichev@icloud.com) or [LinkedIn](https://www.linkedin.com/in/lyubomir-lichev).
 
