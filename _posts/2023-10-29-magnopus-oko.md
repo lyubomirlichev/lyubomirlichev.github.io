@@ -8,6 +8,8 @@ pin: true
 
 OKO is an app that allows users to add interactive digital content to the real world.
 
+OKO is also part of a suite of software, which was named as one of [TIME's best inventions of 2022](https://time.com/collection/best-inventions-2022/6229833/magnopus-connected-spaces/).
+
 [App Store link](https://apps.apple.com/us/app/oko/id1630451462)
 
 🪄✨ Features: 
