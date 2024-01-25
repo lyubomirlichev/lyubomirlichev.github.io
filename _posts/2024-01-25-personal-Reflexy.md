@@ -38,4 +38,4 @@ I've been employed full-time throughout this time,  but I wanted to put this out
 It has been an incredibly humbling journey, as I did not predict the toll it would take on me as a solo developer. I've learned a massive amount about creating a product from scratch and what it takes to release it. Despite that, I loved every bit of it, and I would do it all over again. My goal is and has been for at least one person to download it, and find some joy in it.
 
 
-I'll be posting more details about lessons learned, what progress looked like and more soon.
+I'll be posting more details about lessons learned, what progress looked like and more soon. 
