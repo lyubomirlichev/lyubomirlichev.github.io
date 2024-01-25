@@ -2,7 +2,7 @@
 title: Reflexy - Apple Vision Pro exclusive
 date: 2024-01-25
 categories: [Personal Projects]
-tags: [VR, Apple Vision Pro, AR]
+tags: [VR, visionOS, Swift, Apple Vision Pro, AR]
 pin: true
 ---
 
