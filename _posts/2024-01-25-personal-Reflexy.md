@@ -28,7 +28,7 @@ Demo video:
 
 {% include embed/youtube.html id='vHUfbLl509g' %}
 
-[Website](http://reflexy.co.uk)
+[Website](https://reflexy.godaddysites.com/)
 
 ### Developer Overview
 This application is the evolution of the Reactor prototype I posted about last year. After I had confidence in the concept, I started a journey of building it in Swift to be ready for the Apple Vision Pro device release.
