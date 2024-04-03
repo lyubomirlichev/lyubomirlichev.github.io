@@ -22,7 +22,14 @@ All you need to get started is your hands.
 Reflexy is built for anyone who wants to improve their reaction time, reflexes, and their overall cognitive health.
 
 ### Pricing
-Reflexy will be free to download, and will provide unlimited access to 1 of its challenges. Users will be able to upgrade to Reflexy Plus to unlock 5 additional challenges, for $2.99/month.
+Reflexy is free to download, and will provide unlimited access to 1 of its challenges. Users will be able to upgrade to Reflexy Plus to unlock 5 additional challenges, for $2.99/month.
+
+The app is featured in the Immersive Wire's [Interesting Apple Vision Pro apps to try out](https://www.immersivewire.com/p/apple-vision-pro-apps)
+The app is also featured in 9to5Mac's Best Apple Vision Pro Apps list [here]!(https://9to5mac.com/2024/03/15/best-apple-vision-apps/)
+
+Gameplay video:
+
+{% include embed/youtube.html id='oxg64ceIXx0' %}
 
 Demo video:
 
@@ -38,4 +45,4 @@ I've been employed full-time throughout this time,  but I wanted to put this out
 It has been an incredibly humbling journey, as I did not predict the toll it would take on me as a solo developer. I've learned a massive amount about creating a product from scratch and what it takes to release it. Despite that, I loved every bit of it, and I would do it all over again. My goal is and has been for at least one person to download it, and find some joy in it.
 
 
-I'll be posting more details about lessons learned, what progress looked like and more soon. 
+I'll be posting more details about lessons learned, what progress looked like and more.
