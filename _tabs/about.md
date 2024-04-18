@@ -8,7 +8,7 @@ order: 4
 {: .prompt-tip }
 
 
-As a Senior Software Engineer with a passion for AR and VR development, I am excited to be at the forefront of creating immersive and innovative experiences.
+As a Lead Software Engineer with a passion for AR and VR development, I am excited to be at the forefront of creating immersive and innovative experiences.
 
 I believe that XR technology has the power to create unforgettable moments and unique business opportunities.
 
