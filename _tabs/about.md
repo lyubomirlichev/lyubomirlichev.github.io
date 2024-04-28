@@ -18,6 +18,6 @@ In my current role, I am working on a suite of tools for studios and brands to e
 
 If you are interested in discussing potential collaboration or learning more about my skills and experience, please don't hesitate to reach out. I am always open to exploring new opportunities and making connections in the industry.
 
-Download my CV [here](https://www.icloud.com/iclouddrive/06fYeMB26uqdWmG7QHdAdZ1og#Lyubomir_Lichev_CV).
+Download my CV [here](https://resume.io/r/esMLdcc9M).
 
 Contact me at [l.lichev@icloud.com](mailto:l.lichev@icloud.com) or [LinkedIn](https://www.linkedin.com/in/lyubomir-lichev).
